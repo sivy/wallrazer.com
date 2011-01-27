@@ -1,0 +1,98 @@
+/*
+screen.css
+*/
+
+body {
+	font-family: "Helvetica Nueue", Helvetica, Arial, sans-serif;
+	font-size: 16px;
+	color: #444;
+	margin:0;			
+}
+
+.top {
+	height: 3px;
+	width: 100%;
+	background-color: #60718D;
+	border-bottom: 2px solid #CCC;
+	position: fixed;
+	top: 0;
+	left: 0;
+}
+
+.container {
+	margin:160px auto 200px; 
+	width:707px;
+}
+a, a:visited, a:hover, a:link, a:active  {
+	color: #444;
+	text-decoration: none;
+	border-bottom: 1px dotted #666;
+	font-weight: normal;
+	padding: 2px 3px 0px;
+}
+a:hover {
+	background-color: #666;
+	color: #fff;
+}
+
+address {
+	display: inline;
+}
+
+p.copy {
+	margin: 10px 0 0 0;
+	text-align: left;
+}
+p.subhead {
+	color: #333;
+	margin-top: -20px;
+	margin-bottom: 65px;
+	font-style: italic;
+}
+.logo-list {
+	margin: 0;
+	padding: 0;
+    list-style-type: none;
+}
+.logo-list li {
+	font-family: Helvetica;
+	float: left;
+	width: 213px;
+	margin: 5px 18px 0 0;
+}
+.logo-list li span.numeral {
+	display: block;
+	font-size: 14px;
+	width: 20px;
+	height: 18px;
+	background: url('circ.png') no-repeat top left;
+	padding: 4px 0px 0 0;
+}
+
+.logo-item {
+	background-color: #333;
+}
+.logo-item-1 {
+	background-color: #58595B;
+}
+.logo-item-2 {
+	background-color: #445D7B;
+}
+.logo-item-3 {
+	background-color: #808080;
+}
+.logo-item-4 {
+	background-color: #752104;
+}
+.logo-item-5 {
+	background-color: #89714E;
+}
+.logo-item-6 {
+	background-color: #60718D;
+}
+.logo-item-7 {
+	background-color: #B6A999;
+}
+.logo-item-8 {
+	background-color: #9C3B1D;
+}

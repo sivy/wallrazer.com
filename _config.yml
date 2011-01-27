@@ -1,0 +1,4 @@
+url: http://wallrazer.com
+auto: false
+exclude: fabfile.py, build
+
