@@ -4,3 +4,7 @@ title: Welcome to the new Wallrazer.com
 ---
 
 The start of something new is always a scary time. This year (01/01/2011) I decided to start off on my own as an independent contractor. After a career working for various companies both small and large, I decided that I was ready to take the leap.
+
+I'm doing contract web development, largely in Movable Type, python, and django. I've got several steady clients that are keeping me busy about 3/4 of the time, which is pretty good for the first couple months. I'm in the process of re-evaluating all my tools and processes; now that I'm independent I don't have as much time to spend poking at tools.
+
+I've also got some product ideas rolling around in my head, and I'm excited to see if any of them can come to fruition in the near future. It's going to be an interesting year!
