@@ -1,13 +1,14 @@
 ---
 layout: default
+bc: post
 ---
-
 <div class="logo">
-	<img class="logo-item logo-item-1" src="images/wallrazer_logo_xparent.png" alt="wallrazer" style="margin:0px 0; background-color:#000" />
+	<a href="{{site.url}}"><img class="logo-item logo-item-{% rand 8 %}" src="{{site.url}}/images/wallrazer_logo_xparent.png" alt="wallrazer" style="margin:0px 0; border:none;" /></a>
 </div>
 
-<h1>{{ title }}</h1>
+<h1>{{ page.title }}</h1>
 <div class="content">
-	{{ content }}
-	<p>{{ date }} | <a href="{{ post.url }}">#</a></p>
+	{{ page.content }}
+	<p class="sig">--Steve</p>
+	<p class='meta'>published <a href="{{ page.url }}">{{ page.date | date: "%Y/%m/%d" }}</a></p>
 </div>

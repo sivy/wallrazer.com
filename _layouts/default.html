@@ -2,7 +2,7 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
     <head>
-	    <title>{{ title }}</title>
+	    <title>{{ page.title }}</title>
 		<script type="text/javascript" src="http://use.typekit.com/unc0lrw.js"></script>
 		<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 		
@@ -14,10 +14,10 @@
 		  media="screen and (max-device-width: 480px)" />
 
     </head>
-    <body class="tk-sorts-mill-goudy" style="text-align:center">
+    <body class="tk-sorts-mill-goudy {{ page.bc }}" style="text-align:center">
 		<div class="top"></div>
 		<div class="container">
-			{{ page.content }}
+			{{ content }}
 		</div>    
     </body>
 </html>

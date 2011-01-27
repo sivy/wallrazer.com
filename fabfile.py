@@ -8,6 +8,7 @@ def generate():
 	local('jekyll')
 
 def pack():
+	generate()
 	local('tar czf ~/tmp/wr_site.tgz _site')
 
 def deploy():

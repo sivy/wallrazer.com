@@ -40,5 +40,3 @@ title: Wallrazer, Inc ~ Code and Consulting
 </ul>
 <br style="clear:both"/>
 <p class="copy subhead">sometimes it's a process</p>
-<p class="copy"><a href="http://www.wallrazer.com/">Wallrazer, Inc</a> ~ Code and Consulting</p>
-<p class="copy"><a href="mailto:steve@wallrazer.com">contact us</a></p>

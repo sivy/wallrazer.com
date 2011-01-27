@@ -1,4 +1,14 @@
-url: http://wallrazer.com
-auto: false
-exclude: fabfile.py, build, README.markdown
+source:      .
+destination: ./_site
+includes:    ./_includes
 
+url: http://wallrazer.com
+
+auto: false
+exclude:
+- fabfile.py
+- build
+- README.markdown
+
+rdiscount:
+    extensions: [smart, autolink]

@@ -4,7 +4,7 @@ screen.css
 
 body {
 	font-family: "Helvetica Nueue", Helvetica, Arial, sans-serif;
-	font-size: 16px;
+	font-size: 1.1em;
 	color: #444;
 	margin:0;			
 }
@@ -40,13 +40,14 @@ address {
 }
 
 p.copy {
-	margin: 10px 0 0 0;
 	text-align: left;
 }
+
 p.subhead {
+	float: left;
 	color: #333;
-	margin-top: -20px;
-	margin-bottom: 65px;
+	margin-top: -30px;
+	margin-bottom: 0px;
 	font-style: italic;
 }
 .logo-list {
@@ -95,4 +96,46 @@ p.subhead {
 }
 .logo-item-8 {
 	background-color: #9C3B1D;
+}
+
+/*
+home page
+*/
+
+.recent_post {
+	margin-top: 50px;
+}
+
+.home-footer {
+	margin-top: 40px;
+}
+.home-footer p.copy {
+	text-align: center;
+}
+
+/*
+post page
+*/
+
+body.post h1 {
+	font-family: "Helvetica Nueue", Helvetica, Arial, sans-serif;
+	font-size: 1.6em;
+}
+
+p.meta {
+	font-size: .8em;
+	font-family: "Helvetica Nueue", Helvetica, Arial, sans-serif;
+}
+
+.logo a {
+	text-decoration: none;
+	border: none;
+}
+.logo a:hover {
+	background: none;
+}
+
+body.post .container {
+	text-align: left;
+	width: 507px;
 }
