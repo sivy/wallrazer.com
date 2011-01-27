@@ -136,6 +136,9 @@ p.meta {
 }
 
 body.post .container {
-	text-align: left;
 	width: 507px;
+}
+
+body.post .content {
+	text-align: left;
 }

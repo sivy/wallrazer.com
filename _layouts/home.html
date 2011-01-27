@@ -5,10 +5,6 @@ layout: default
 
 {% assign first_post = site.posts.first %}
 <div class="recent_post">
-  <h3><a href="{{ first_post.url }}">{{ first_post.title }}</a></h3>
+  <h3>News: <a href="{{ first_post.url }}">{{ first_post.title }}</a></h3>
   <p class="meta">published {{ first_post.date | date_to_string }}</p>
-</div>
-
-<div class="home-footer">
-	<p class="copy"><a href="http://www.wallrazer.com/">Wallrazer, Inc</a> ~ Code and Consulting ~ <a href="mailto:steve@wallrazer.com">contact us</a></p>
 </div>
