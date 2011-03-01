@@ -4,7 +4,7 @@ screen.css
 
 body {
 	font-family: "Helvetica Nueue", Helvetica, Arial, sans-serif;
-	font-size: 1.1em;
+	font-size: .95em;
 	color: #444;
 	margin:0;			
 }
@@ -106,6 +106,10 @@ home page
 	margin-top: 50px;
 }
 
+.recent_post h3 {
+    margin: 1em 0 .3em;
+}
+
 .home-footer {
 	margin-top: 40px;
 }
@@ -114,10 +118,11 @@ home page
 }
 
 /*
-post page
+content pages
 */
 
-body.post h1 {
+body.post h1, 
+body.code h1 {
 	font-family: "Helvetica Nueue", Helvetica, Arial, sans-serif;
 	font-size: 1.6em;
 }
@@ -135,11 +140,13 @@ p.meta {
 	background: none;
 }
 
-body.post .container {
+body.post .container,
+body.code .container {
 	width: 507px;
 	margin-top: 100px;
 }
 
-body.post .content {
+body.post .content,
+body.code .content {
 	text-align: left;
 }
