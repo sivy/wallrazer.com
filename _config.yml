@@ -9,6 +9,7 @@ exclude:
 - fabfile.py
 - build
 - README.markdown
+- post_update.sh
 
 rdiscount:
     extensions: [smart, autolink]
