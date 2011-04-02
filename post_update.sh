@@ -7,4 +7,4 @@ echo "building site..."
 
 # copy to web dir
 echo "copying to /var/www/"
-cp -R _site/* /var/www/
+sudo cp -R _site/* /var/www/
