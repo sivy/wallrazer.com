@@ -10,6 +10,7 @@ exclude:
 - build
 - README.markdown
 - post_update.sh
+- mig.yaml
 
 rdiscount:
     extensions: [smart, autolink]
