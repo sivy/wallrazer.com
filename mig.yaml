@@ -2,3 +2,4 @@ type: static
 url: http://hammer.wallrazer.com
 working_dir: /var/github/wallrazer.com/
 dest_dir: /var/www/
+build_dir: _site
