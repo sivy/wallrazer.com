@@ -1,6 +1,12 @@
 type: static
 url: http://hammer.wallrazer.com
 envs:
+    local:
+        host: localhost
+        url: http://localhost/
+        working_dir: /var/github/wallrazer.com
+        dest_dir: /Library/WebServer/Documents/wallrazer.com
+        build_dir: _site
     staging:
         host: hammer.wallrazer.com
         url: http://hammer.wallrazer.com
