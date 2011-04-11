@@ -1,5 +1,5 @@
 source:      .
-destination: ./_site
+destination: /tmp/_site
 includes:    ./_includes
 
 url: http://wallrazer.com
