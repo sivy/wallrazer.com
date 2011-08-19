@@ -1,0 +1,14 @@
+---
+layout: post
+title: Pushcode: Friendly, Automated Deployments
+---
+
+For the last 4-5 months, I've been working on a new product, a web-based deployment tool called [Pushcode](http:pushco.de). Pushcode's goal is to bring the idea of continuous deployment to web developers who feel like they don't have the time, resources, or skills to do it on their own.
+
+Continuous deployment is the idea that as developers we don't necessarily have to gather up all our new features/changes into a megalithic "Release", with a dot-0 number on it, and a press release, just to get the new stuff out the door to users. Ian Malpass at Etsy described it well when talking about the in-house tool they wrote to help Etsy make this transition:
+
+>Once deploying is No Big Deal, a lot of things can change. Features can go out a piece at a time instead of one all-or-nothing push.
+
+Running a custom in-house tool like Etsy's [Deployinator](https://github.com/etsy/deployinator) (its open source!) is great - but can require a full-time dev/ops guy a couple days to get running, and requires a place to host it. Pushcode is a web-based, hosted solution for small shows that need flexibility but not the burden of maintaining a deployment system of their own.
+
+Pushcode works, and does it's job pretty well, though it's not complete by a long shot. I've got a lot of features I want to add to help streamline the process even more, and I'm looking for early adopters who are interested in taking their deployment process to a new level of flexibility and power.
