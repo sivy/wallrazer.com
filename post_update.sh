@@ -5,4 +5,5 @@ echo "building site..."
 export PATH="$PATH:/var/lib/gems/1.8/bin/"
 jekyll
 
+echo "copying $BUILD_DIR/* to $DEST_DIR/"
 cp -R $BUILD_DIR/* $DEST_DIR/
