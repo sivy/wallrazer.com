@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pushcode: Friendly, Automated Deployments
+title: "Pushcode: Friendly, Automated Deployments"
 ---
 
 For the last 4-5 months, I've been working on a new product, a web-based deployment tool called [Pushcode](http:pushco.de). Pushcode's goal is to bring the idea of continuous deployment to web developers who feel like they don't have the time, resources, or skills to do it on their own.
