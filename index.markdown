@@ -39,4 +39,4 @@ title: Wallrazer, Inc ~ Code and Consulting
 	</li>
 </ul>
 <br style="clear:both"/>
-<p class="copy subhead">Make a way, not a wall.</p>
+<p class="copy subhead">a fixing-problems company.</p>
