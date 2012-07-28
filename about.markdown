@@ -1,9 +1,9 @@
 ---
 layout: blog
-title: Contact Wallrazer
+title: About Wallrazer
 ---
 
-## Contact Us
+## About Us
 
 Wallrazer can be contracted for work in the following areas:
 
@@ -26,10 +26,15 @@ See what we're up to on [Github](https://github.com/wallrazer).
 
 Perhaps you don't know yet what you need, but just want someone to sit down and talk about your business vision, goals, or technology requirements. We'd love to help you focus your efforts in a way that will open up new oppotunities for you!
 
-Contact us:
+## Pushcode
+
+Wallrazer runs [Pushcode](http://pushco.de), a continuous deployment app for small design and development shops. If you have questions about Pushcode, feel free to contact us at <support@pushco.de>.
+
+## Contact Wallrazer
 
 **Steve Ivy, Owner**
 
 * Email: <steve@wallrazer.com>
 * Phone: <a href="tel:+1-480-208-6066">480-208-6066</a>
 * Web: <http://wallrazer.com>
+* Twitter: [@steveivy](http://twitter.com/steveivy)
