@@ -39,4 +39,5 @@ Wallrazer runs [Pushcode](http://pushco.de), a continuous deployment app for sma
 * Email: <steve@wallrazer.com>
 * Phone: <a href="tel:+1-480-208-6066">480-208-6066</a>
 * Web: <http://wallrazer.com>
+* LinkedIn: <http://www.linkedin.com/in/steveivy>
 * Twitter: [@steveivy](http://twitter.com/steveivy)
