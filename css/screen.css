@@ -8,7 +8,7 @@ body {
     font-weight: 200;
     line-height: 1.5;
 	color: #444;
-	margin:0;			
+	margin:0;
 }
 
 .top {
@@ -22,7 +22,7 @@ body {
 }
 
 .container {
-	margin:160px auto 200px; 
+	margin:160px auto 200px;
 	width:707px;
 }
 a, a:visited, a:hover, a:link, a:active  {
@@ -123,7 +123,7 @@ home page
 content pages
 */
 
-body.post h1, 
+body.post h1,
 body.code h1,
 body.blog h1 {
 	font-family: "Helvetica Nueue", Helvetica, Arial, sans-serif;
@@ -150,7 +150,7 @@ p.meta {
 body.blog .container,
 body.post .container,
 body.code .container {
-	width: 507px;
+	width: 607px;
 	margin-top: 100px;
 }
 
