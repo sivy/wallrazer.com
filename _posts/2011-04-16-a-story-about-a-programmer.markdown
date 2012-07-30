@@ -1,12 +1,12 @@
 ---
 layout: post
-title: A story about a programmer (historical fiction)
+title: A Story about a Programmer
 ---
 *This was a writing exercise for [750words](http://750words.com), but inspired by some recent thinking...*
 
-This is a story. A story about a programmer. A programmer with a manager breathing down his neck. He had to get the site updated... pronto. What was that server IP again? He had a cheat sheet around here somewhere. Where was it?
+This is a story... about a programmer. A programmer with a manager breathing down his neck. He had to get the site updated, and pronto. What was that server IP again? He had a cheat sheet around here somewhere. Where was it?
 
-He rummaged around the desk for 2 more minutes, looking for that 3" by 3" scrap of yellow paper. What was it with him and the Stickies? He simply loved them. Too much, it would seem. Now that he needed a particular one they were falling off his monitor like drifting snow. Bits of his work life falling around him like his hopes.
+He rummaged around the desk for 2 more minutes, looking for that 3" by 3" scrap of yellow paper. What was it with him and the Stickies? He simply loved them. Too much, it would seem. Now that he needed a particular one they were falling off his monitor like drifting snow. Bits of his work life, with his hopes, falling around him.
 
 He looked at the phone again. The message light was blinking. And again. Phil had left him two more messages. Really, Phil?, he thought. Like I don't know that the service hosting the images is broken and none of those images - the ones on our new slideshow-building site - are loading? Leave me alone so I can think!
 
