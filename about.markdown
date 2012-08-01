@@ -9,35 +9,54 @@ title: About Wallrazer
 
 Wallrazer can be contracted for work in the following areas:
 
-### Site Design & Development
+### Site Design &amp; Development
 
-We have over a decade and a half of experience in designing, developing, and managing web sites and blogs. We can help you determine your needs, select a software platform or CMS, and build out a site as a trusted partner. Our goal is to make sure that your site represents you and your company.
+We've been designing and coding for the Web since the early days, when "web pages" were simple and GIFs came in 256 glorious colors. Since then we've had a decade and a half of experience in planning, creating and managing dynamic websites and weblogs. We can help you:
 
-### Web Application Development
+* Define the results your site should deliver
+* If needed, select a software platform or CMS for your site
+* Build out your site as a trusted partner
 
-Your business may have a custom web application, or even provide a web application as a service. We can provide a variety of contract services to help you advance your application:
+With our own experience and the services of a network of experts, we will deliver a site that best represents you and your company. <a href="mailto:steve@wallrazer.com?subject=Site%20Quote">Request a Quote</a>.
+
+### Web Application Development / Coding Services
+
+Sometimes your web application team may just need an extra resource to reach the next milestone. We provide a variety of contract services to help you get there:
 
 - Feature design
-- Front End Development (HTML/Javascript)
+- Front end development (HTML/Javascript)
 - Backend web programming (Python, Django, Perl)
-- DevOps Services (continuous integration, application metrics setup, etc.)
+- DevOps services (continuous integration, application metrics setup, etc.)
 
-See what we're up to on [Github](https://github.com/wallrazer).
+Inquire about <a href="mailto:steve@wallrazer.com?subject=Contract%20Services">our development services</a>.
 
 ### Something Else?
 
-Perhaps you don't know yet what you need, but just want someone to sit down and talk about your business, vision, goals, or technology requirements. We'd love to help you focus your efforts in a way that will open up new opportunities for you.
+Perhaps you don't know yet what you need, but just want someone to sit down and talk about your business, vision, goals, or technology requirements. We'd love to help you focus your efforts in a way that will open up new opportunities for you. <a href="mailto:steve@wallrazer.com">Get in touch</a> and let's talk about your needs.
 
 # Pushcode
 
-Wallrazer runs [Pushcode](http://pushco.de), a continuous deployment app for small design and development shops. If you have questions about Pushcode, feel free to contact us at <support@pushco.de>.
+<span style="float:right; margin: 0 0 30px 30px"><a style="text-decoration:none; border: none; color: #333; background: #fff" href="https://pushco.de"><img src="/images/pushcode_small.png" /></a></span>
 
-# Contact Wallrazer
+Wallrazer runs [Pushcode](http://pushco.de), a continuous deployment app for small design and development shops.
+
+Steve shares some thoughts on Pushcode:
+
+>I've done a lot of design/development work. For many of the sites I was designing and building everything, and the sites always required lots of changes and updates over time. When working on several of those at a time, I always ended up with a collage of stickies and Notepad docs describing how to push out changes to the sites, since I could never keep them in my head (too crowded!).
+
+>Pushcode was conceived to address this dilemma. Now we can simply setup an application and deployment environment in Pushcode, and add a deploy key to the server. Then it's a matter of committing all changes to VCS (you are using source control, right?), then log into Pushcode and push a button. Lather, rinse, repeat.
+
+Pushcode is in private beta; if you'd like to take it for a spin, feel free to ping Steve at <steve@pushco.de>.
+
+[Pushcode](/) is built with [Python](http://python.org), [Django](http://djangoproject.org), [Fabric](http://fabfile.org), [Celery](http://ask.github.com/celery/), [Redis](http://redis.io), [Linode](http://linode.com), [Less](http://http://lesscss.org/) and love.
+
+# Contact Us
 
 **Steve Ivy, Owner**
 
 * Email: <steve@wallrazer.com>
 * Phone: <a href="tel:+1-480-208-6066">480-208-6066</a>
 * Web: <http://wallrazer.com>
+* Github: <https://github.com/sivy>
 * LinkedIn: <http://www.linkedin.com/in/steveivy>
 * Twitter: [@steveivy](http://twitter.com/steveivy)
