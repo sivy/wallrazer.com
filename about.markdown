@@ -11,28 +11,28 @@ Wallrazer can be contracted for work in the following areas:
 
 ### Site Design &amp; Development
 
-We've been designing and coding for the Web since the early days, when "web pages" were simple and GIFs came in 256 glorious colors. Since then we've had a decade and a half of experience in planning, creating and managing dynamic websites and weblogs. We can help you:
+Wallrazer's Principle and Founder, Steve Ivy, has been designing and coding for the Web since the early days, when "web pages" were simple and GIFs came in 256 glorious colors. That means nearly 20 years of experience in planning, creating and managing dynamic websites and weblogs. We can help you:
 
 * Define the results your site should deliver
-* If needed, select a software platform or CMS for your site
+* If needed, help select a software platform or content management system for your site
 * Build out your site as a trusted partner
 
-With our own experience and the services of a network of experts, we will deliver a site that best represents you and your company. <a href="mailto:steve@wallrazer.com?subject=Site%20Quote">Request a Quote</a>.
+With this depth of experience we will deliver a site that best represents you and your company. <a href="mailto:steve@wallrazer.com?subject=Site%20Quote">Request a Quote</a>.
 
 ### Web Application Development / Coding Services
 
-Sometimes your web application team may just need an extra resource to reach the next milestone. We provide a variety of contract services to help you get there:
+Sometimes your web application team may just need an extra resource to reach the next milestone. Wallrazer can provide a variety of contract services to help you get there:
 
 - Feature design
 - Front end development (HTML/Javascript)
 - Backend web programming (Python, Django, Perl)
 - DevOps services (continuous integration, application metrics setup, etc.)
 
-Inquire about <a href="mailto:steve@wallrazer.com?subject=Contract%20Services">our development services</a>.
+Inquire about our <a href="mailto:steve@wallrazer.com?subject=Contract%20Services">development services</a>.
 
 ### Something Else?
 
-Perhaps you don't know yet what you need, but just want someone to sit down and talk about your business, vision, goals, or technology requirements. We'd love to help you focus your efforts in a way that will open up new opportunities for you. <a href="mailto:steve@wallrazer.com">Get in touch</a> and let's talk about your needs.
+Perhaps you don't know yet what you need, but just want someone to sit down and talk about your business, vision, goals, or technology requirements. We can help you focus your efforts in a way that will open up new opportunities for you. <a href="mailto:steve@wallrazer.com">Get in touch</a> and let's talk about your needs.
 
 # Pushcode
 
